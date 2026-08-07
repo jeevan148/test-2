@@ -1,4 +1,4 @@
-
+ a b c ss 
 file is f2.text
 1
 2
