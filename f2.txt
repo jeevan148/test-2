@@ -1,2 +1,3 @@
-file is f2.txt
+file is f2.text
+is modified in master
 
