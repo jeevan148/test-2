@@ -1,5 +1,10 @@
 
 file is f2.text
+1
+2
+3
+4
+file is f2.text
 is modified in master
 
 all of you attend the class

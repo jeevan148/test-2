@@ -1,4 +1,7 @@
 
+file is f1.txt 123
+abccd ef
+
 file is f1.text
 f1.txt file is modified in master
 
