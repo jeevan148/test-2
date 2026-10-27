@@ -3,7 +3,7 @@ file is f2.text
 1
 2
 3
-4
+4              
 file is f2.text
 is modified in master     
 
