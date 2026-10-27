@@ -5,7 +5,7 @@ file is f2.text
 3
 4
 file is f2.text
-is modified in master
+is modified in master     
 
 all of you attend the class
 in third floar
